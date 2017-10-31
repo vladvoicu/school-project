@@ -1,0 +1,11 @@
+C:\Users\test\Desktop\WebAPI\CarDataAccess\bin\Debug\CarDataAccess.dll.config
+C:\Users\test\Desktop\WebAPI\CarDataAccess\bin\Debug\CarDataAccess.dll
+C:\Users\test\Desktop\WebAPI\CarDataAccess\bin\Debug\CarDataAccess.pdb
+C:\Users\test\Desktop\WebAPI\CarDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\test\Desktop\WebAPI\CarDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\test\Desktop\WebAPI\CarDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\test\Desktop\WebAPI\CarDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\test\Desktop\WebAPI\CarDataAccess\obj\Debug\CarDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\test\Desktop\WebAPI\CarDataAccess\obj\Debug\CarDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\test\Desktop\WebAPI\CarDataAccess\obj\Debug\CarDataAccess.dll
+C:\Users\test\Desktop\WebAPI\CarDataAccess\obj\Debug\CarDataAccess.pdb
