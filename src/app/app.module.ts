@@ -6,6 +6,8 @@ import { HeaderComponent } from './header.component';
 import { DropdownDirective } from './dropdown.directive';
 import { SidebarComponent } from './sidebar.component';
 import { CarsComponent } from './cars/cars.component';
+import { TrucksComponent } from './trucks/trucks.component';
+import { routing } from './app.routing'
 
 @NgModule({
   declarations: [
@@ -13,10 +15,12 @@ import { CarsComponent } from './cars/cars.component';
     HeaderComponent,
     DropdownDirective,
     SidebarComponent,
-    CarsComponent
+    CarsComponent,
+    TrucksComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    routing
   ],
   providers: [],
   bootstrap: [AppComponent]
