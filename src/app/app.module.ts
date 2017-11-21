@@ -7,7 +7,10 @@ import { DropdownDirective } from './dropdown.directive';
 import { SidebarComponent } from './sidebar.component';
 import { CarsComponent } from './cars/cars.component';
 import { TrucksComponent } from './trucks/trucks.component';
-import { routing } from './app.routing'
+import { routing } from './app.routing';
+import { CarsListComponent } from './cars/cars-list/cars-list.component';
+import { CarsDetailComponent } from './cars/cars-detail/cars-detail.component';
+import { CarItemComponent } from './cars/cars-list/car-item.component'
 
 @NgModule({
   declarations: [
@@ -16,7 +19,10 @@ import { routing } from './app.routing'
     DropdownDirective,
     SidebarComponent,
     CarsComponent,
-    TrucksComponent
+    TrucksComponent,
+    CarsListComponent,
+    CarsDetailComponent,
+    CarItemComponent
   ],
   imports: [
     BrowserModule,
