@@ -10,7 +10,10 @@ import { TrucksComponent } from './trucks/trucks.component';
 import { routing } from './app.routing';
 import { CarsListComponent } from './cars/cars-list/cars-list.component';
 import { CarsDetailComponent } from './cars/cars-detail/cars-detail.component';
-import { CarItemComponent } from './cars/cars-list/car-item.component'
+import { CarItemComponent } from './cars/cars-list/car-item.component';
+import { TrucksListComponent } from './trucks/trucks-list/trucks-list.component';
+import { TrucksDetailComponent } from './trucks/trucks-detail/trucks-detail.component';
+import { TruckItemComponent } from './trucks/trucks-list/truck-item.component'
 
 @NgModule({
   declarations: [
@@ -22,7 +25,10 @@ import { CarItemComponent } from './cars/cars-list/car-item.component'
     TrucksComponent,
     CarsListComponent,
     CarsDetailComponent,
-    CarItemComponent
+    CarItemComponent,
+    TrucksListComponent,
+    TrucksDetailComponent,
+    TruckItemComponent
   ],
   imports: [
     BrowserModule,

@@ -4,7 +4,7 @@ import { Truck } from "./truck";
 import { Dotare } from "../dotare";
 
 @Injectable()
-export class CarService {
+export class TruckService {
   private trucks: Truck[] = [
     new Truck('Ford', 'Mondeo', 'http://images.derberater.de/files/imagecache/456xXXX_berater/berater/slides/WienerSchnitzel.jpg',2009,'1.6','diesel','150cp', [
       new Dotare('Incalzire', true),
